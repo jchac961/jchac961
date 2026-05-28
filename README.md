@@ -23,4 +23,5 @@ Herramientas utilizadas
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-006699?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/BURP%20SUITE-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" />
 </p>
