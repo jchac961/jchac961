@@ -20,7 +20,7 @@ ___
 
 Sistemas Operativos
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux" style="margin-right: 10px;" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu" style="margin-right: 10px;" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" style="margin-right: 10px;" />
