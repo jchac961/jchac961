@@ -21,10 +21,10 @@ ___
 Sistemas Operativos
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=FCC624" height="40"/>
-  <img src="https://img.shields.io/badge/-Ubuntu-000?style=flat-square&logo=ubuntu&logoColor=E95420" height="40"/>
-  <img src="https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=2496ED" height="40"/>
-  <img src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=F05032" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" style="margin-right: 10px;" />
 </p>
 
 Desarrollo & Scripting
