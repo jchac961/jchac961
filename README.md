@@ -54,5 +54,5 @@ Seguridad y Hacking
   <img src="https://img.shields.io/badge/-Metasploit-000?style=flat-square&logo=metasploit&logoColor=006699" height="60"/>
   <img src="https://img.shields.io/badge/-Wireshark-000?style=flat-square&logo=wireshark&logoColor=167EE6" height="60"/>
   <img src="https://img.shields.io/badge/-Nmap-000?style=flat-square&logo=google-chrome&logoColor=4F8A10" height="60"/>
-  <img src="https://img.shields.io/badge/-Hydra-ED1C24?style=flat&logo=threedotone&logoColor=ED1C24&labelColor=1e1e1e" height="40" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-Hydra-ED1C24?style=flat&logo=unraidadmin&logoColor=ED1C24&labelColor=1e1e1e" height="40" style="margin-right: 10px;" />
 </p>
