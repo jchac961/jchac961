@@ -38,10 +38,10 @@ Desarrollo & Scripting
 
 Seguridad y Hacking
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Kali%20Linux-000?style=flat-square&logo=kali-linux&logoColor=557C94" height="40"/>
-  <img src="https://img.shields.io/badge/-Burp%20Suite-000?style=flat-square&logo=portswigger&logoColor=FF6600" height="40"/>
-  <img src="https://img.shields.io/badge/-Metasploit-000?style=flat-square&logo=metasploit&logoColor=006699" height="40"/>
-  <img src="https://img.shields.io/badge/-Wireshark-000?style=flat-square&logo=wireshark&logoColor=167EE6" height="40"/>
-  <img src="https://img.shields.io/badge/-Nmap-000?style=flat-square&logo=google-chrome&logoColor=4F8A10" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Kali%20Linux-000?style=flat-square&logo=kali-linux&logoColor=557C94" height="60"/>
+  <img src="https://img.shields.io/badge/-Burp%20Suite-000?style=flat-square&logo=portswigger&logoColor=FF6600" height="60"/>
+  <img src="https://img.shields.io/badge/-Metasploit-000?style=flat-square&logo=metasploit&logoColor=006699" height="60"/>
+  <img src="https://img.shields.io/badge/-Wireshark-000?style=flat-square&logo=wireshark&logoColor=167EE6" height="60"/>
+  <img src="https://img.shields.io/badge/-Nmap-000?style=flat-square&logo=google-chrome&logoColor=4F8A10" height="60"/>
 </p>
