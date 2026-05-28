@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-[![Whoami Labs](https://img.shields.io/badge/WHOAMI_LABS-000000?style=for-the-badge&logo=target&logoColor=cyan)](TU_ENLACE_A_WHOAMI)!--
-**jchac961/jchac961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Whoami Labs](https://img.shields.io/badge/WHOAMI_LABS-000000?style=for-the-badge&logo=target&logoColor=cyan)](TU_ENLACE_A_WHOAMI)
+
 
 Here are some ideas to get you started:
 
