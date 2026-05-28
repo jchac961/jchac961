@@ -40,7 +40,7 @@ Desarrollo & Scripting
 <p align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" style="margin-right: 10px;" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" style="margin-right: 10px;" />
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="40" alt="C#" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-C%23-000?style=flat-square&logo=c-sharp&logoColor=239120" height="40"/>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" style="margin-right: 10px;" />
 </p>
 
