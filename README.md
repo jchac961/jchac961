@@ -8,7 +8,7 @@
 
 ---
 
-## Voluntario www.whoami-labs.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Especialista+en+Ciberseguridad;Computer+Security+Engineer;Voluntario+Whoami-labs)](https://git.io/typing-svg)
 
 👨‍💻 Soy Ingeniero en Sistemas Computacionales con una sólida formación en seguridad informática y redes. Mi enfoque principal es la protección de infraestructuras críticas y la mitigación de vulnerabilidades. Cuento con certificaciones y estudios avanzados en CCNA y Ethical Hacking, lo que me permite abordar la seguridad desde una perspectiva tanto defensiva como ofensiva.
 
