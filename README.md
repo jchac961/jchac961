@@ -6,7 +6,7 @@
 ![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Whoami Labs](https://img.shields.io/badge/WHOAMI_LABS-000000?style=for-the-badge&logo=target&logoColor=cyan)](TU_ENLACE_A_WHOAMI)
 
----
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Especialista+en+Ciberseguridad;Computer+Security+Engineer;Voluntario+Whoami-labs)](https://git.io/typing-svg)
 
