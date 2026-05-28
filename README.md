@@ -16,7 +16,7 @@ Me especializo en la configuración de redes seguras, análisis de riesgos y pru
 
 ___
 
-# Herramientas utilizadas
+# 🛠️Herramientas utilizadas
 
 Sistemas Operativos
 
