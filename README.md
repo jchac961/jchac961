@@ -29,7 +29,9 @@ Sistemas Operativos
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" style="margin-right: 35px;" />
 </p>
 
+<p align="center">
 Desarrollo & Scripting
+</p>
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" style="margin-right: 10px;" />
@@ -38,7 +40,9 @@ Desarrollo & Scripting
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" style="margin-right: 10px;" />
 </p>
 
+<p align="center">
 Seguridad y Hacking
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Kali%20Linux-000?style=flat-square&logo=kali-linux&logoColor=557C94" height="60"/>
