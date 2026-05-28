@@ -15,3 +15,12 @@ Computer Security engineer | Ethical Hacking
 Me especializo en la configuración de redes seguras, análisis de riesgos y pruebas de penetración. Siempre en constante aprendizaje para enfrentar los desafíos cambiantes del panorama de amenazas actual.
 
 ___
+
+Herramientas utilizadas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-006699?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
