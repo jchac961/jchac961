@@ -2,7 +2,6 @@
 ## 💻Computer Security Engineer | Ethical Hacker
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Especialista+en+Ciberseguridad;Computer+Security+Engineer;Voluntario+Whoami-labs)](https://git.io/typing-svg)
-
 ___
 
 ![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
