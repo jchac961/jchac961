@@ -30,18 +30,18 @@ Sistemas Operativos
 Desarrollo & Scripting
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=3776AB" height="40"/>
+  <img src="https://img.shields.io/badge/-Bash-000?style=flat-square&logo=gnu-bash&logoColor=4EAA25" height="40"/>
+  <img src="https://img.shields.io/badge/-C%23-000?style=flat-square&logo=c-sharp&logoColor=239120" height="40"/>
+  <img src="https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E" height="40"/>
 </p>
 
 Seguridad y Hacking
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-006699?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/NMAP-4F8A10?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-000?style=flat-square&logo=kali-linux&logoColor=557C94" height="40"/>
+  <img src="https://img.shields.io/badge/-Burp%20Suite-000?style=flat-square&logo=portswigger&logoColor=FF6600" height="40"/>
+  <img src="https://img.shields.io/badge/-Metasploit-000?style=flat-square&logo=metasploit&logoColor=006699" height="40"/>
+  <img src="https://img.shields.io/badge/-Wireshark-000?style=flat-square&logo=wireshark&logoColor=167EE6" height="40"/>
+  <img src="https://img.shields.io/badge/-Nmap-000?style=flat-square&logo=google-chrome&logoColor=4F8A10" height="40"/>
 </p>
