@@ -1,5 +1,5 @@
 
-# 💻Computer Security engineer | Ethical Hacking
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BBComputer+Security+engineer+%7C+Ethical+Hacking)](https://git.io/typing-svg)
 
 ---
 
