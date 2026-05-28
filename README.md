@@ -23,10 +23,14 @@ Sistemas Operativos
   </p>
   
 <p align="center">
+<p align="left">
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux" style="margin-right: 35px;" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu" style="margin-right: 35px;" />
+  <img src="https://cdn.simpleicons.org/windows/0078D4" height="40" alt="Windows" style="margin-right: 35px;" />
+  <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="macOS" style="margin-right: 35px;" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" style="margin-right: 35px;" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" style="margin-right: 35px;" />
+</p>
 </p>
 
 <p align="center">
